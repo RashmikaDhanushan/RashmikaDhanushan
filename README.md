@@ -22,7 +22,7 @@
 <img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif">
 
 - 🎓 I’m an Undergraduate at **LNBTI**
-- 🌱 I’m currently learning **Flutter, Java, Java OOP**
+- 🌱 I’m currently learning **Flutter, Java, Java OOP ,C# ,C# oop**
 
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=61557223303763&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Rashmika Dhanushan" height="30" width="40"></a>
